@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#" version="2.0">
+  <channel xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#">
+    <title>LuaBinaries</title>
+    <link>https://sourceforge.net</link>
+    <description><![CDATA[Files from LuaBinaries LuaBinaries is a distribution of the Lua libraries and executables compiled for several platforms.]]></description>
+    <pubDate>Sat, 30 Apr 2022 23:01:53 UT</pubDate>
+    <managingEditor>noreply@sourceforge.net (SourceForge.net)</managingEditor>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Static/README.windows.static.md]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/README.windows.static.md/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/README.windows.static.md/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:19:07 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Static/README.windows.static.md]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485055</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">ISO-8859 text</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="text/plain; charset=iso-8859-1" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/README.windows.static.md/download" filesize="2122"><media:hash algo="md5">59677ab46a8e1b04179a5da41130b197</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win64_vc16_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_vc16_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_vc16_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:03 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win64_vc16_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485054</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_vc16_lib.zip/download" filesize="338678"><media:hash algo="md5">f16fd52c638b10f8482df542e6a94202</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win64_vc15_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_vc15_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_vc15_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:03 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win64_vc15_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485053</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_vc15_lib.zip/download" filesize="338615"><media:hash algo="md5">5426dbceae187a4d51dc3bccddafe7a1</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win64_vc14_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_vc14_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_vc14_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:03 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win64_vc14_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485052</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_vc14_lib.zip/download" filesize="292445"><media:hash algo="md5">425d75802e26ac94cf74ec7c254a552b</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win64_mingw6_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_mingw6_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_mingw6_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:05 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win64_mingw6_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485051</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win64_mingw6_lib.zip/download" filesize="140728"><media:hash algo="md5">06c2d07832561734e747e889c2d84615</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win32_vc15_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_vc15_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_vc15_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:02 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win32_vc15_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485049</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_vc15_lib.zip/download" filesize="261075"><media:hash algo="md5">03f41d9bd54311d9464f3980de3fc957</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win32_vc16_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_vc16_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_vc16_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:03 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win32_vc16_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485050</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_vc16_lib.zip/download" filesize="260739"><media:hash algo="md5">50287d60e679651c878879eadb835600</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win32_vc14_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_vc14_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_vc14_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:02 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win32_vc14_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485048</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_vc14_lib.zip/download" filesize="226080"><media:hash algo="md5">493dfe7826ac8e86cfb89bea93ee64fc</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win32_mingw6_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_mingw6_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_mingw6_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:05 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Static/lua-5.3.6_Win32_mingw6_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485047</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Static/lua-5.3.6_Win32_mingw6_lib.zip/download" filesize="144587"><media:hash algo="md5">c9a4f62f1f0c59a08a8590a91a0c5f56</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Dynamic/README.windows.dynamic.md]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/README.windows.dynamic.md/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/README.windows.dynamic.md/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:18:37 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Dynamic/README.windows.dynamic.md]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485045</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">ISO-8859 text</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="text/plain; charset=iso-8859-1" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/README.windows.dynamic.md/download" filesize="2228"><media:hash algo="md5">18dbd8fb8a47032f2a6a998f1aceb362</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win64_dll16_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dll16_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dll16_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:04 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win64_dll16_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485043</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dll16_lib.zip/download" filesize="165160"><media:hash algo="md5">ea2a17fe6886a21d8f25aff6036076af</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win64_dllw6_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dllw6_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dllw6_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:05 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win64_dllw6_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485044</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dllw6_lib.zip/download" filesize="164174"><media:hash algo="md5">ff97da4a08a17b010724194630529273</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win64_dll15_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dll15_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dll15_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:04 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win64_dll15_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485042</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dll15_lib.zip/download" filesize="155593"><media:hash algo="md5">29500b8ef93d6baa54683b6e9d4a9eee</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win64_dll14_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dll14_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dll14_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:04 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win64_dll14_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485041</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win64_dll14_lib.zip/download" filesize="158823"><media:hash algo="md5">ffcd2f17fbf484361ef9033fd8b04e78</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win32_dllw6_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dllw6_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dllw6_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:05 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win32_dllw6_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485040</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dllw6_lib.zip/download" filesize="180394"><media:hash algo="md5">34781e14476db67fc259bec6f4b6a372</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win32_dll16_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dll16_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dll16_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:04 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win32_dll16_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485039</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dll16_lib.zip/download" filesize="138582"><media:hash algo="md5">51b9d73f5a48fd8c5b770604f1084425</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win32_dll15_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dll15_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dll15_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:04 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win32_dll15_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485037</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dll15_lib.zip/download" filesize="130246"><media:hash algo="md5">8694a6f30b8c2e3ba0c05c159dc5b89e</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win32_dll14_lib.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dll14_lib.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dll14_lib.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:03 UT</pubDate>
+      <description><![CDATA[/5.3.6/Windows Libraries/Dynamic/lua-5.3.6_Win32_dll14_lib.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485038</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">C source, ASCII text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Windows%20Libraries/Dynamic/lua-5.3.6_Win32_dll14_lib.zip/download" filesize="135219"><media:hash algo="md5">65788856fb4dcc35e3c43c9c91e5328f</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Tools Executables/README.tools.md]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/README.tools.md/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/README.tools.md/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:16:53 UT</pubDate>
+      <description><![CDATA[/5.3.6/Tools Executables/README.tools.md]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485034</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">ISO-8859 text</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="text/plain; charset=iso-8859-1" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/README.tools.md/download" filesize="1324"><media:hash algo="md5">9463ed3a215100acff194a79c79a34c9</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Win64_bin.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Win64_bin.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Win64_bin.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:06 UT</pubDate>
+      <description><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Win64_bin.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485033</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">PE32+ executable</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Win64_bin.zip/download" filesize="347700"><media:hash algo="md5">21ffbc3b2033e5c83630c03f912dadcf</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Win32_bin.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Win32_bin.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Win32_bin.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:06 UT</pubDate>
+      <description><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Win32_bin.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485032</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">PE32 executable</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Win32_bin.zip/download" filesize="378084"><media:hash algo="md5">cc1236074aff5f8e1020efe20b16acb0</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux54_64_bin.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux54_64_bin.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux54_64_bin.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:06 UT</pubDate>
+      <description><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux54_64_bin.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485031</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux54_64_bin.tar.gz/download" filesize="201244"><media:hash algo="md5">6c97de27650bf2cf9a8f9aa91ec3da7f</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux50_64_bin.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux50_64_bin.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux50_64_bin.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:06 UT</pubDate>
+      <description><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux50_64_bin.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485030</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux50_64_bin.tar.gz/download" filesize="200490"><media:hash algo="md5">a2344554da4be93fd2e32f5836f42deb</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux44_64_bin.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux44_64_bin.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux44_64_bin.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:06 UT</pubDate>
+      <description><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux44_64_bin.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485029</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux44_64_bin.tar.gz/download" filesize="197768"><media:hash algo="md5">2e92df50c77a6ae7f4df3e45e8699f05</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux415_64_bin.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux415_64_bin.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux415_64_bin.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:06 UT</pubDate>
+      <description><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux415_64_bin.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485028</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux415_64_bin.tar.gz/download" filesize="200580"><media:hash algo="md5">14c1dcee2524f84f3c76b9169b89c820</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux319_64_bin.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux319_64_bin.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux319_64_bin.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:05 UT</pubDate>
+      <description><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux319_64_bin.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485025</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux319_64_bin.tar.gz/download" filesize="197894"><media:hash algo="md5">1bab2983becc6f00311bd3a02a187a41</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux313_64_bin.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux313_64_bin.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux313_64_bin.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:05 UT</pubDate>
+      <description><![CDATA[/5.3.6/Tools Executables/lua-5.3.6_Linux313_64_bin.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485024</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux313_64_bin.tar.gz/download" filesize="194881"><media:hash algo="md5">8d12bf98c460933b1bf76a827e56af3e</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Other Libraries/README.other.md]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Other%20Libraries/README.other.md/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Other%20Libraries/README.other.md/download</guid>
+      <pubDate>Fri, 29 Mar 2019 11:00:06 UT</pubDate>
+      <description><![CDATA[/5.3.6/Other Libraries/README.other.md]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485021</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">ISO-8859 text</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="text/plain; charset=iso-8859-1" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Other%20Libraries/README.other.md/download" filesize="1178"><media:hash algo="md5">1d4b69a0ee4db5ef1d861569a2f89279</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Linux Libraries/README.linux.md]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/README.linux.md/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/README.linux.md/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:14:58 UT</pubDate>
+      <description><![CDATA[/5.3.6/Linux Libraries/README.linux.md]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485014</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">text</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="text/plain; charset=us-ascii" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/README.linux.md/download" filesize="1368"><media:hash algo="md5">28439a992e407caa8bcadf0f4e11f637</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux50_64_lib.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux50_64_lib.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux50_64_lib.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:02 UT</pubDate>
+      <description><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux50_64_lib.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485012</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux50_64_lib.tar.gz/download" filesize="274669"><media:hash algo="md5">08728ec025d7c283fe86572cc6aa8553</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux54_64_lib.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux54_64_lib.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux54_64_lib.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:02 UT</pubDate>
+      <description><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux54_64_lib.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485013</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux54_64_lib.tar.gz/download" filesize="276797"><media:hash algo="md5">45a7e95c043eae78a162c3854a9fae96</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux44_64_lib.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux44_64_lib.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux44_64_lib.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:01 UT</pubDate>
+      <description><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux44_64_lib.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485011</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux44_64_lib.tar.gz/download" filesize="274388"><media:hash algo="md5">dc21993637edbaf41b91892774d4271e</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux415_64_lib.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux415_64_lib.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux415_64_lib.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:02 UT</pubDate>
+      <description><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux415_64_lib.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485010</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux415_64_lib.tar.gz/download" filesize="275118"><media:hash algo="md5">5439c462419a40887c6a04f71aa1ebe1</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux319_64_lib.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux319_64_lib.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux319_64_lib.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:01 UT</pubDate>
+      <description><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux319_64_lib.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485009</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux319_64_lib.tar.gz/download" filesize="275309"><media:hash algo="md5">6a97ebbbde4d22d23bbe88ebe7931ea2</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux313_64_lib.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux313_64_lib.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux313_64_lib.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:01 UT</pubDate>
+      <description><![CDATA[/5.3.6/Linux Libraries/lua-5.3.6_Linux313_64_lib.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485008</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Linux%20Libraries/lua-5.3.6_Linux313_64_lib.tar.gz/download" filesize="271555"><media:hash algo="md5">7ba493e5cce0b5990513571478fd8463</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Docs and Sources/lua-5.3.6_Sources.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Sources.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Sources.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:07 UT</pubDate>
+      <description><![CDATA[/5.3.6/Docs and Sources/lua-5.3.6_Sources.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485005</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">text (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Sources.zip/download" filesize="276345"><media:hash algo="md5">49dfe2c91cc374c057f7655ccf75a0c3</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Docs and Sources/README.release.md]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/README.release.md/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/README.release.md/download</guid>
+      <pubDate>Wed, 21 Dec 2011 16:36:34 UT</pubDate>
+      <description><![CDATA[/5.3.6/Docs and Sources/README.release.md]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485006</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">text</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="text/plain; charset=us-ascii" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/README.release.md/download" filesize="548"><media:hash algo="md5">ed68acd649359c2292af1b0db4a18ad5</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Docs and Sources/lua-5.3.6_Docs_html.zip]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Docs_html.zip/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Docs_html.zip/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:07 UT</pubDate>
+      <description><![CDATA[/5.3.6/Docs and Sources/lua-5.3.6_Docs_html.zip]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485003</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">empty (Zip archive data)</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Docs_html.zip/download" filesize="118596"><media:hash algo="md5">fafdb7e708a37a84260424c855bf5eb0</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Docs and Sources/lua-5.3.6_Sources.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Sources.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Sources.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:07 UT</pubDate>
+      <description><![CDATA[/5.3.6/Docs and Sources/lua-5.3.6_Sources.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485004</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Sources.tar.gz/download" filesize="233005"><media:hash algo="md5">0fbe5f26a4edda6d95ad8370bd39f77a</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Docs and Sources/lua-5.3.6_Docs.chm]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Docs.chm/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Docs.chm/download</guid>
+      <pubDate>Mon, 11 Jan 2021 19:42:11 UT</pubDate>
+      <description><![CDATA[/5.3.6/Docs and Sources/lua-5.3.6_Docs.chm]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485002</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">MS Windows HtmlHelp Data</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/octet-stream; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Docs.chm/download" filesize="212496"><media:hash algo="md5">75fae9e298ae274a574fb89b272217f7</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/5.3.6/Docs and Sources/lua-5.3.6_Docs_html.tar.gz]]></title>
+      <link>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Docs_html.tar.gz/download</link>
+      <guid>https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Docs_html.tar.gz/download</guid>
+      <pubDate>Tue, 12 Jan 2021 19:25:07 UT</pubDate>
+      <description><![CDATA[/5.3.6/Docs and Sources/lua-5.3.6_Docs_html.tar.gz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">34485001</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-gzip; charset=binary" url="https://sourceforge.net/projects/luabinaries/files/5.3.6/Docs%20and%20Sources/lua-5.3.6_Docs_html.tar.gz/download" filesize="116086"><media:hash algo="md5">70bf67003075b04bf69795cc39f23c47</media:hash></media:content>
+    </item>
+  </channel>
+</rss>
